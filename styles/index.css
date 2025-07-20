@@ -76,10 +76,12 @@ nav ul{
 .banner-greetings{
     font-size: 45px;
     font-weight: 600;
+    margin-bottom: 5px;
 }
 .banner-title{
     font-weight: bold;
     font-size: 85px;
+    margin: 5px 0 20px 0;
 }
 .banner-describtion{
     font-size: 18px;
